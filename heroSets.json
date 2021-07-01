@@ -1,0 +1,10 @@
+[
+  ["mirana"],
+  ["mirana", "witch doctor", "bloodseeker"],
+  ["witch doctor"],
+  ["sven"],
+  ["spectre", "sven"],
+  ["spectre", "sven", "mirana", "witch doctor"],
+  ["spectre"],
+  ["spectre", "bloodseeker"]
+]
